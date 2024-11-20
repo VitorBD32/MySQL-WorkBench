@@ -1,0 +1,1 @@
+Script SQL mostrando um simples exemplo das operações ACID (Atomicidade, Consistência, Isolamento e Disponibilidade) entre transações entre 2 contas. exemplo prático mostrando tamb´me anomalias das trasações.
